@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/migueLoureiro/login-react/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/migueLoureiro/login-react/static/js/main.6b5e45a9.chunk.js",
-    "main.js.map": "/migueLoureiro/login-react/static/js/main.6b5e45a9.chunk.js.map",
-    "runtime~main.js": "/migueLoureiro/login-react/static/js/runtime~main.4b4dd725.js",
-    "runtime~main.js.map": "/migueLoureiro/login-react/static/js/runtime~main.4b4dd725.js.map",
-    "static/js/2.a71b1702.chunk.js": "/migueLoureiro/login-react/static/js/2.a71b1702.chunk.js",
-    "static/js/2.a71b1702.chunk.js.map": "/migueLoureiro/login-react/static/js/2.a71b1702.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/migueLoureiro/login-react/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/migueLoureiro/login-react/static/js/3.a29efab2.chunk.js.map",
-    "index.html": "/migueLoureiro/login-react/index.html",
-    "precache-manifest.d44baf784a3e92de44aacb5b6d3d5e94.js": "/migueLoureiro/login-react/precache-manifest.d44baf784a3e92de44aacb5b6d3d5e94.js",
-    "service-worker.js": "/migueLoureiro/login-react/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/migueLoureiro/login-react/static/css/main.435d5fe5.chunk.css.map",
-    "static/media/logo.svg": "/migueLoureiro/login-react/static/media/logo.06e73328.svg"
+    "main.css": "/login-react/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/login-react/static/js/main.6b5e45a9.chunk.js",
+    "main.js.map": "/login-react/static/js/main.6b5e45a9.chunk.js.map",
+    "runtime~main.js": "/login-react/static/js/runtime~main.242270f0.js",
+    "runtime~main.js.map": "/login-react/static/js/runtime~main.242270f0.js.map",
+    "static/js/2.a71b1702.chunk.js": "/login-react/static/js/2.a71b1702.chunk.js",
+    "static/js/2.a71b1702.chunk.js.map": "/login-react/static/js/2.a71b1702.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/login-react/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/login-react/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/login-react/index.html",
+    "precache-manifest.b56aebf158226461c4a2f02bde3a2d7c.js": "/login-react/precache-manifest.b56aebf158226461c4a2f02bde3a2d7c.js",
+    "service-worker.js": "/login-react/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/login-react/static/css/main.435d5fe5.chunk.css.map",
+    "static/media/logo.svg": "/login-react/static/media/logo.06e73328.svg"
   }
 }
