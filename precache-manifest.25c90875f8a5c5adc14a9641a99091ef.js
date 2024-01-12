@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2aa06c25bdb9ca50a8d8a21d8647f401",
+    "revision": "d17f027aa4d4ed01e014aa17633a6392",
     "url": "/migueLoureiro/login-react/index.html"
   },
   {
-    "revision": "b1044fa478e3d9896b74",
+    "revision": "071504d205efa3848e5d",
     "url": "/migueLoureiro/login-react/static/css/main.435d5fe5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/migueLoureiro/login-react/static/js/3.a29efab2.chunk.js"
   },
   {
-    "revision": "b1044fa478e3d9896b74",
-    "url": "/migueLoureiro/login-react/static/js/main.704f432d.chunk.js"
+    "revision": "071504d205efa3848e5d",
+    "url": "/migueLoureiro/login-react/static/js/main.95d8f95c.chunk.js"
   },
   {
     "revision": "876bbc342707486475f2",
