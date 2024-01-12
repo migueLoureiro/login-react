@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/migueLoureiro/login-react/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/migueLoureiro/login-react/static/js/main.95d8f95c.chunk.js",
-    "main.js.map": "/migueLoureiro/login-react/static/js/main.95d8f95c.chunk.js.map",
+    "main.js": "/migueLoureiro/login-react/static/js/main.6b5e45a9.chunk.js",
+    "main.js.map": "/migueLoureiro/login-react/static/js/main.6b5e45a9.chunk.js.map",
     "runtime~main.js": "/migueLoureiro/login-react/static/js/runtime~main.4b4dd725.js",
     "runtime~main.js.map": "/migueLoureiro/login-react/static/js/runtime~main.4b4dd725.js.map",
     "static/js/2.a71b1702.chunk.js": "/migueLoureiro/login-react/static/js/2.a71b1702.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.a29efab2.chunk.js": "/migueLoureiro/login-react/static/js/3.a29efab2.chunk.js",
     "static/js/3.a29efab2.chunk.js.map": "/migueLoureiro/login-react/static/js/3.a29efab2.chunk.js.map",
     "index.html": "/migueLoureiro/login-react/index.html",
-    "precache-manifest.25c90875f8a5c5adc14a9641a99091ef.js": "/migueLoureiro/login-react/precache-manifest.25c90875f8a5c5adc14a9641a99091ef.js",
+    "precache-manifest.d44baf784a3e92de44aacb5b6d3d5e94.js": "/migueLoureiro/login-react/precache-manifest.d44baf784a3e92de44aacb5b6d3d5e94.js",
     "service-worker.js": "/migueLoureiro/login-react/service-worker.js",
     "static/css/main.435d5fe5.chunk.css.map": "/migueLoureiro/login-react/static/css/main.435d5fe5.chunk.css.map",
     "static/media/logo.svg": "/migueLoureiro/login-react/static/media/logo.06e73328.svg"
