@@ -3,7 +3,20 @@ import logo from './logo.svg';
 import './App.css';
 import LoginBox from './components/loginbox/LoginBox';
 
+var expectedUsername = "user";
+var expectedPassword = "password";
+
 function App() {
+
+  function loginFunc(username: string, password: string): [Boolean, string] {
+    if ( username === expectedUsername &&
+      password === expectedPassword){
+        return [true, "Welcome "+username+"! Redirecting..."];
+    } else{
+        return [false, "invalid credentials!..."];
+    }
+  }
+
   return (
     <div className="App">
       <header className="App-header">
@@ -15,8 +28,7 @@ function App() {
         <LoginBox
           textBefore="Login with your username and password:"
           textAfter=""
-          welcomeMsg="Welcome! redirecting...."
-          warning="Invalid credentials"
+          login={loginFunc}
         />
 
       </header>
